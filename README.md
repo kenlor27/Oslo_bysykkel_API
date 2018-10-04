@@ -1,4 +1,4 @@
-# Oslo_bysykkel_API
+# Oslo_bysykkel_liste_fra_API
 
 Dette er et enkelt program som viser oppdatert liste over ledige sykler og tilgjengelige låser i alle Oslos bysykkelstativ. Programmet er skrevet med antakelsen om at sluttbruker/målgruppen (du/dere) selv er programvareutvikler(e). Python må være installert for at programmet skal kunne kjøre.
 
